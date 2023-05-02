@@ -33,7 +33,7 @@ body {
     <h2>Project 1: The Kichwa Project</h2>
   <div>
   <div class="left">
-    <img src="/images/Photo_logo.png" alt="TheKichwaProjectLogo" style="border-radius:50%; width: 200px;"> 
+    <img src="/images/Photo_logo.png" alt="TheKichwaProjectLogo" style="border-radius:50%; width: 200px; margin:3px;"> 
   </div>
   <div class="right">
     <p><a href="https://lulischmader.github.io/The-Kichwa-Project/"> <strong>Click here to visit my project website</strong></a></p>
